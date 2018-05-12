@@ -1,0 +1,31 @@
+_repo: Aftermath--13-Part-second-of--A-Kentucky-Cardinal-_13554
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, James Lane
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '869'
+    url: http://www.gutenberg.org/2009/agents/869
+    wikipedia: http://en.wikipedia.org/wiki/James_Lane_Allen
+description: The novel 1894 novel A Kentucky Cardinal was an immediate hit and helped
+  to establish not only the literary reputation of its author, James Lane Allen, but
+  also the ""local color"" movement in American literature, which sought to document
+  and delve into the peculiarities and unique attributes of regional cultures. Aftermath
+  is the sequel to A Kentucky Cardinal and picks up where the previous tale left off.
+gutenberg_issued: '2004-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Kentucky -- Fiction'
+title: "Aftermath\r\nPart second of \"A Kentucky Cardinal\""
+url: http://www.gutenberg.org/ebooks/13554
